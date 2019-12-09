@@ -1,7 +1,7 @@
 ## Flink开发目录结构
- *com.zhaopin
+ -com.zhaopin
      *common 主要存放一些公共的一些连接信息，地址，表
-     *flink
+     +flink
 	 *entity 主要存放一些实体类
 	 *job 存放flink的流作业
 		 *dashboard  看板相关的任务
