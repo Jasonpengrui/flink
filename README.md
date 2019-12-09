@@ -16,6 +16,7 @@
 ### 配置文件部分 resource
  * 将topic的信息写到topic.properties或者pulsar-info.yml
  * 写入druid的配置文件放到该目录下
+ 
 **建议:**
     1、如果有一个项目包含很多个作业的时候，可以单独建一个package，把相关任务放到里面。
     2、把每个过程处理放到一个单独的class里面，这样更好把握整体的逻辑，流程清晰明了。
