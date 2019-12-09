@@ -9,6 +9,6 @@
 			 * metrics 宽表相关的任务
 			 * push push相关的任务
 			 * sdf 数据入库的任务
-	 * sink Flink的输出源
-	 * source Flink的输入源
+	 	* sink Flink的输出源
+	 	* source Flink的输入源
 	 * utils 存放工具类
